@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="dscrp">Androide Cyberfeminista buscada por la Orbita de Seguridad espacial y por
+        ente refugiada en este planeta azúl</string>
+    <string name="name">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="city">City</string>
+    <string name="cp">CP</string>
+    <string name="button">Finish</string>
+
+</resources>
