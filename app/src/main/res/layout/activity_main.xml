@@ -23,7 +23,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="49dp"
         app:cardCornerRadius="40dp"
-        android:elevation="10dp">
+        android:elevation="10dp">p
 
         <ImageView
             android:id="@+id/imageView1"
@@ -60,6 +60,7 @@
             <EditText
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:id="@+id/EditName"
                 android:width="300dp"
                 android:inputType="text"/>
         </LinearLayout>
